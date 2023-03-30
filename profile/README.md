@@ -29,9 +29,7 @@ Once we have generated potential solutions, we will create physical or digital p
 The final stage of the design thinking methodology involves testing the prototypes with users to gather feedback and refine the solution. We will iterate on the prototype based on the feedback gathered from users to arrive at a workable solution.
 
 <h2>Repository Structure</h2>
-This repository is organized into folders based on applications built so far. Each folder contains documentation, resources, and tools specific to that application. We encourage collaboration and feedback from our community to help us create the most effective solutions possible.
-
-Thank you for your interest in our repository, and we look forward to working with you to tackle real-world problems using the design thinking methodology.
+This repository is organized into folders based on applications built so far. Each folder contains documentation, resources, and tools specific to that application. We encourage collaboration and feedback from our community to help us create the most effective solutions possible. Thank you for your interest in our repository, and we look forward to working with you to tackle real-world problems using the design thinking methodology.
 
 <h3>Applications</h3>
 Our applications aim to tackle a range of real-world problems, including healthcare, education, and sustainability. Here are a few examples of the applications we have developed:
