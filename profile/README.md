@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-In Dec 2022, I got selected as a fellow in the Lumi IGNITE Fellowship Program; An Innovation fellowship designed to nurture young adults (8-18) into unique problem solvers utilizing the Design Thinking Methodology.
+In Dec 2022, I got selected as a fellow in Lumi’s IGNITE Fellowship Program; An Innovation fellowship designed to nurture young adults (8-18) into unique problem solvers utilizing the Design Thinking Methodology.
 
 In applications developed in this repo I assume the persona of a Luminaire (fancy term for Lumi's young Innovators): As I work my way through building an App to solve a real-world problem (*****) using - </p>
                                  
